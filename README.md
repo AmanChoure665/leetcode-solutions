@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
@@ -25,6 +26,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
@@ -34,4 +36,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
