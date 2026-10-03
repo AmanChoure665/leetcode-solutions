@@ -32,6 +32,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Matrix
 |  |
