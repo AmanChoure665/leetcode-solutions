@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -32,6 +33,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0709-to-lower-case) |
@@ -51,4 +53,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0069-sqrtx) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
