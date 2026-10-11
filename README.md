@@ -8,6 +8,7 @@
 | [0013-roman-to-integer](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
@@ -19,6 +20,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0013-roman-to-integer) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
