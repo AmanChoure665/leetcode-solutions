@@ -11,12 +11,14 @@
 | [0258-add-digits](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3663-find-the-least-frequent-digit](https://github.com/AmanChoure665/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Array
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [3663-find-the-least-frequent-digit](https://github.com/AmanChoure665/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Simulation
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [3663-find-the-least-frequent-digit](https://github.com/AmanChoure665/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Number Theory
 |  |
 | ------- |
@@ -69,4 +72,8 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0344-reverse-string) |
+## Counting
+|  |
+| ------- |
+| [3663-find-the-least-frequent-digit](https://github.com/AmanChoure665/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 <!---LeetCode Topics End-->
