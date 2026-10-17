@@ -11,6 +11,7 @@
 | [0258-add-digits](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2469-convert-the-temperature](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [3663-find-the-least-frequent-digit](https://github.com/AmanChoure665/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Array
 |  |
