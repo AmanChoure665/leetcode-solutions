@@ -27,6 +27,7 @@
 | [1929-concatenation-of-array](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2942-find-words-containing-character](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3663-find-the-least-frequent-digit](https://github.com/AmanChoure665/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Simulation
 |  |
@@ -54,6 +55,7 @@
 | [0709-to-lower-case](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2942-find-words-containing-character](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 ## Matrix
 |  |
 | ------- |
