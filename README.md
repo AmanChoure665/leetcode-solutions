@@ -10,6 +10,7 @@
 | [0231-power-of-two](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
