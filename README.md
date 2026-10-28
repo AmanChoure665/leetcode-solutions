@@ -58,6 +58,7 @@
 | [1108-defanging-an-ip-address](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [3340-check-balanced-string](https://github.com/AmanChoure665/leetcode-solutions/tree/master/3340-check-balanced-string) |
 ## Matrix
 |  |
 | ------- |
