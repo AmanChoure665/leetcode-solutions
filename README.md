@@ -56,6 +56,7 @@
 | [0412-fizz-buzz](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3340-check-balanced-string](https://github.com/AmanChoure665/leetcode-solutions/tree/master/3340-check-balanced-string) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3663-find-the-least-frequent-digit](https://github.com/AmanChoure665/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Number Theory
 |  |
