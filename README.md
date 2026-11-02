@@ -11,6 +11,7 @@
 | [0258-add-digits](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
@@ -24,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
