@@ -61,6 +61,7 @@
 | [0344-reverse-string](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1816-truncate-sentence) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0771-jewels-and-stones](https://github.com/AmanChoure665/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3663-find-the-least-frequent-digit](https://github.com/AmanChoure665/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Number Theory
