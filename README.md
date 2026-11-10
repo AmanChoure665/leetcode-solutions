@@ -24,6 +24,7 @@
 | [2651-calculate-delayed-arrival-time](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/AmanChoure665/leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3663-find-the-least-frequent-digit](https://github.com/AmanChoure665/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Array
 |  |
@@ -41,6 +42,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/AmanChoure665/leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3663-find-the-least-frequent-digit](https://github.com/AmanChoure665/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Simulation
 |  |
