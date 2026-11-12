@@ -80,6 +80,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3340-check-balanced-string](https://github.com/AmanChoure665/leetcode-solutions/tree/master/3340-check-balanced-string) |
 ## Matrix
