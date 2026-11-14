@@ -24,6 +24,7 @@
 | [2651-calculate-delayed-arrival-time](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/AmanChoure665/leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AmanChoure665/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3663-find-the-least-frequent-digit](https://github.com/AmanChoure665/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
