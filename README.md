@@ -43,6 +43,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/AmanChoure665/leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -122,4 +123,8 @@
 |  |
 | ------- |
 | [3663-find-the-least-frequent-digit](https://github.com/AmanChoure665/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
+## Greedy
+|  |
+| ------- |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 <!---LeetCode Topics End-->
