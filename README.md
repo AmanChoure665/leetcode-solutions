@@ -92,6 +92,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2942-find-words-containing-character) |
