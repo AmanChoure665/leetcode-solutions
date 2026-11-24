@@ -50,6 +50,7 @@
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/AmanChoure665/leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -155,4 +156,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AmanChoure665/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AmanChoure665/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
